@@ -108,7 +108,7 @@
 	{
 		"Headers": "collection3",
 		"HeadersThumbs": "https://raw.githubusercontent.com/indpDB/UC-ImageApp-TopWallpapers/master/MenuIcons/3.png",
-		"HeadersDisplay": "Yes",
+		"HeadersDisplay": "No",
 		"collection1Thumbs": "https://raw.githubusercontent.com/indpDB/UC-ImageApp-TopWallpapers/master/C1/TH/3.jpg",
 		"collection1HD": "https://raw.githubusercontent.com/indpDB/UC-ImageApp-TopWallpapers/master/C1/HD/3.jpg",
 		"collection2Thumbs": "https://raw.githubusercontent.com/indpDB/UC-ImageApp-TopWallpapers/master/C2/TH/3.jpg",
